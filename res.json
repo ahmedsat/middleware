@@ -1,0 +1,124 @@
+{
+  "data": {
+    "name": "APP-2025-01728",
+    "owner": "kimoamer70@gmail.com",
+    "creation": "2025-04-06 19:37:36.939842",
+    "modified": "2025-04-06 19:37:36.939842",
+    "modified_by": "kimoamer70@gmail.com",
+    "docstatus": 0,
+    "idx": 1,
+    "workflow_state": "Draft",
+    "farm_name": "\u0645\u062d\u0645\u0648\u062f \u0639\u0644\u0649 \u0641\u0631\u063a\u0644\u064a",
+    "farm_owner_name": "\u0645\u062d\u0645\u0648\u062f \u0639\u0644\u0649 \u0641\u0631\u063a\u0644\u064a \u0645\u062d\u0645\u062f",
+    "farm_owner_national_id": "https://kc.kobotoolbox.org/media/original?media_file=sekemgroup%2Fattachments%2F093840649d574642948eedba0baedd8b%2F0141c420-20a1-49c9-9b72-7ceae097582f%2F1742214858834.jpg",
+    "woman_farm_owner_national_id": "",
+    "farm_owner_photo": "https://kc.kobotoolbox.org/media/original?media_file=sekemgroup%2Fattachments%2F093840649d574642948eedba0baedd8b%2F0141c420-20a1-49c9-9b72-7ceae097582f%2F1742214836841.jpg",
+    "woman_farm_owner_photo": "",
+    "average_number_of_children": 0,
+    "registration_date": "2025-04-01",
+    "farm_operator": "\u0645\u062d\u0645\u0648\u062f \u0639\u0644\u0649 \u0641\u0631\u063a\u0644\u064a \u0645\u062d\u0645\u062f",
+    "year_of_reclamation": 0,
+    "total_farm_area_in_feddan": 5.0,
+    "cultivated_farm_area_in_feddan": 5.0,
+    "phone": "154979841",
+    "region": "Assuit",
+    "citytown": "\u0627\u0628\u0646\u0648\u0628",
+    "village": "\u0627\u0644\u0633\u0648\u0627\u0644\u0645 \u0627\u0644\u0628\u062d\u0631\u064a\u0647",
+    "farm_address": "\u0627\u0644\u0634\u0628\u0643\u0647",
+    "leading_engineers": 0,
+    "engineer_name": "\u0645\u062d\u0645\u062f \u062c\u0645\u0627\u0644 \u0628\u062f\u0648\u064a \u062d\u0633\u064a\u0646",
+    "total_farmers": 1,
+    "remarks": "\u062a\u0645 \u062a\u0633\u0644\u064a\u0645 \u0639\u064a\u0646\u0647 \u0627\u0644\u062a\u0631\u0628\u0647",
+    "naming_series": "APP-.YYYY.-.#####",
+    "posting_date": "2025-04-06",
+    "doctype": "Farm Application",
+    "attachs": [
+      {
+        "name": "l5vhvr8nin",
+        "owner": "kimoamer70@gmail.com",
+        "creation": "2025-04-06 19:37:36.939842",
+        "modified": "2025-04-06 19:37:36.939842",
+        "modified_by": "kimoamer70@gmail.com",
+        "docstatus": 0,
+        "idx": 1,
+        "attach": "https://kc.kobotoolbox.org/media/original?media_file=sekemgroup%2Fattachments%2F093840649d574642948eedba0baedd8b%2F0141c420-20a1-49c9-9b72-7ceae097582f%2F1742215203480.jpg",
+        "parent": "APP-2025-01728",
+        "parentfield": "attachs",
+        "parenttype": "Farm Application",
+        "doctype": "Applications Attached"
+      }
+    ],
+    "location_table": [
+      {
+        "name": "4kfkkfd84h",
+        "owner": "kimoamer70@gmail.com",
+        "creation": "2025-04-06 19:37:36.939842",
+        "modified": "2025-04-06 19:37:36.939842",
+        "modified_by": "kimoamer70@gmail.com",
+        "docstatus": 0,
+        "idx": 1,
+        "latitude": "27.3075799",
+        "longitude": "31.092077",
+        "latitude_nums": "27.3075799",
+        "longitude_nums": "31.092077",
+        "parent": "APP-2025-01728",
+        "parentfield": "location_table",
+        "parenttype": "Farm Application",
+        "doctype": "Location Table"
+      }
+    ],
+    "workers": [
+      {
+        "name": "g5blbjhvrp",
+        "owner": "kimoamer70@gmail.com",
+        "creation": "2025-04-06 19:37:36.939842",
+        "modified": "2025-04-06 19:37:36.939842",
+        "modified_by": "kimoamer70@gmail.com",
+        "docstatus": 0,
+        "idx": 1,
+        "worker": 50,
+        "age": "16-24",
+        "gender": "Male",
+        "parent": "APP-2025-01728",
+        "parentfield": "workers",
+        "parenttype": "Farm Application",
+        "doctype": "Workers"
+      }
+    ],
+    "table_8": [
+      {
+        "name": "s0pc6ev8nk",
+        "owner": "kimoamer70@gmail.com",
+        "creation": "2025-04-06 19:37:36.939842",
+        "modified": "2025-04-06 19:37:36.939842",
+        "modified_by": "kimoamer70@gmail.com",
+        "docstatus": 0,
+        "idx": 1,
+        "animal": "Cow",
+        "number": 4,
+        "parent": "APP-2025-01728",
+        "parentfield": "table_8",
+        "parenttype": "Farm Application",
+        "doctype": "Animal Stock Application"
+      }
+    ],
+    "farmers": [
+      {
+        "name": "mm0k07in8g",
+        "owner": "kimoamer70@gmail.com",
+        "creation": "2025-04-06 19:37:36.939842",
+        "modified": "2025-04-06 19:37:36.939842",
+        "modified_by": "kimoamer70@gmail.com",
+        "docstatus": 0,
+        "idx": 1,
+        "farmer": "\u0645\u062d\u0645\u0648\u062f \u0639\u0644\u0649 \u0641\u0631\u063a\u0644\u064a \u0645\u062d\u0645\u062f",
+        "owned_area_in_feddan": 5.0,
+        "gender": "Male",
+        "parent": "APP-2025-01728",
+        "parentfield": "farmers",
+        "parenttype": "Farm Application",
+        "doctype": "Farmer Application"
+      }
+    ]
+  }
+}

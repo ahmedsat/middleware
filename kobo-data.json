@@ -1,0 +1,240 @@
+{
+  "_id": 449065847,
+  "start": "2025-03-07T08:13:31.166+02:00",
+  "end": "2025-03-07T14:41:53.824+02:00",
+  "deviceid": "collect:EJfzbv8cpsRu25Kw",
+  "engineer_name": "Eng",
+  "Engineer_photo": "1741328039397.jpg",
+  "leading_engineers": "OK",
+  "farm_name": "Farm",
+  "farm_owner": "Owner",
+  "women_owner_name": "Wife",
+  "farm_owner_photo": "1741328105020.jpg",
+  "women_owner_photo": "1741328124477.jpg",
+  "owner_id": "1741328138052.jpg",
+  "women_owner_id": "1741328148504.jpg",
+  "childern_averg": "45",
+  "farm_ownership_document": "1741328164606.jpg",
+  "farm_owner_phone": "159142527",
+  "region": "Faiyum",
+  "city": "\u0627\u0637\u0633\u0627",
+  "village": "\u0627\u0644\u063a\u0631\u0642",
+  "registration_date": "2025-03-07",
+  "farm_address": "\u0627\u0644\u062c\u0631\u0627\u064a",
+  "farm_operator": "Operator",
+  "year_reclamation": "1550",
+  "Farm_coordinates_": "30.4163823 31.6387081 0.0 42.6",
+  "farm_area": "55.5",
+  "cultivated_area": "54.75",
+  "farm_outline": "30.415059646363133 31.640198528766636 0 0;30.414123709813406 31.64037521928549 0 0;30.414395788679183 31.638633459806442 0 0;30.4163825 31.6387092 0 0;30.415059646363133 31.640198528766636 0 0",
+  "farmer": [
+    {
+      "farmer/farmer_name": "Farm 1",
+      "farmer/farmer_area": "55.5",
+      "farmer/farmer_gender": "Male",
+      "farmer/image_jw6yt19": "1741328332638.jpg",
+      "farmer/file_ei2sh05": "1741328370460.jpg"
+    }
+  ],
+  "animal": [
+    {
+      "animal/animal_name": "Buffalo",
+      "animal/quantity": "50"
+    }
+  ],
+  "other_details": "No",
+  "group_rw4sq75": [
+    {
+      "group_rw4sq75/attachments": "1741328397683.jpg"
+    },
+    {
+      "group_rw4sq75/attachments": "1741328406195.jpg"
+    },
+    {
+      "group_rw4sq75/attachments": "1741328414092.jpg"
+    }
+  ],
+  "workers": [
+    {
+      "workers/worker": "2246",
+      "workers/worker_age": "25-40",
+      "workers/worker_gender": "Male"
+    }
+  ],
+  "analysis_sample": "1741328455409.jpg",
+  "image_tj9wu34": "1741328473822.jpg",
+  "signature_photo": "1741328486813.jpg",
+  "meta/instanceID": "uuid:0c73ac34-0605-41bd-b26e-f0e8acce9592",
+  "meta/rootUuid": "981277bd-ce3b-4719-8529-d56d5f1f19d7",
+  "meta/deprecatedID": "uuid:981277bd-ce3b-4719-8529-d56d5f1f19d7",
+  "formhub/uuid": "377a3390472a4cdc931567362d44cbbd",
+  "__version__": "v7mrfPoGnMDfeQVDbaAt9G",
+  "_xform_id_string": "a8JaqiPmrajJj7PaaQCu8X",
+  "_uuid": "0c73ac34-0605-41bd-b26e-f0e8acce9592",
+  "_attachments": [
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328486813.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328486813.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328486813.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328486813.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328486813.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331126
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328473822.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328473822.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328473822.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328473822.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328473822.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331125
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328455409.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328455409.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328455409.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328455409.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328455409.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331124
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328414092.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328414092.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328414092.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328414092.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328414092.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331123
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328406195.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328406195.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328406195.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328406195.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328406195.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331122
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328397683.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328397683.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328397683.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328397683.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328397683.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331121
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328370460.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328370460.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328370460.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328370460.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328370460.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331120
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328332638.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328332638.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328332638.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328332638.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328332638.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331119
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328164606.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328164606.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328164606.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328164606.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328164606.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331118
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328148504.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328148504.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328148504.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328148504.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328148504.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331117
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328138052.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328138052.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328138052.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328138052.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328138052.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331116
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328124477.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328124477.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328124477.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328124477.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328124477.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331115
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328105020.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328105020.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328105020.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328105020.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328105020.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331113
+    },
+    {
+      "download_url": "https://kc.kobotoolbox.org/media/original?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328039397.jpg",
+      "download_large_url": "https://kc.kobotoolbox.org/media/large?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328039397.jpg",
+      "download_medium_url": "https://kc.kobotoolbox.org/media/medium?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328039397.jpg",
+      "download_small_url": "https://kc.kobotoolbox.org/media/small?media_file=ahmed_younes%2Fattachments%2F377a3390472a4cdc931567362d44cbbd%2F981277bd-ce3b-4719-8529-d56d5f1f19d7%2F1741328039397.jpg",
+      "mimetype": "image/jpeg",
+      "filename": "ahmed_younes/attachments/377a3390472a4cdc931567362d44cbbd/981277bd-ce3b-4719-8529-d56d5f1f19d7/1741328039397.jpg",
+      "instance": 449065847,
+      "xform": 2554075,
+      "id": 221331112
+    }
+  ],
+  "_status": "submitted_via_web",
+  "_geolocation": [
+    30.4163823,
+    31.6387081
+  ],
+  "_submission_time": "2025-03-07T06:26:04",
+  "_tags": [],
+  "_notes": [],
+  "_validation_status": {},
+  "_submitted_by": "ahmed_younes"
+}
